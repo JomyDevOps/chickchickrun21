@@ -34,3 +34,6 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+/ccr/.vs/ccr/v15
+/ccr/.vs/slnx.sqlite
+/ccr/.vs/VSWorkspaceState.json
